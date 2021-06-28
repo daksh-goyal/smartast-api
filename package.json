@@ -4,7 +4,7 @@
   "description": "Backend for the smartbrain app",
   "main": "script.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "Daksh Goyal",
   "license": "ISC",
