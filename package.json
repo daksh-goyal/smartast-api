@@ -1,7 +1,7 @@
 {
-  "name": "smartbrain-api",
+  "name": "smartast-api",
   "version": "1.0.0",
-  "description": "Backend for the smartbrain app",
+  "description": "Backend for the smartast app",
   "main": "script.js",
   "scripts": {
     "start": "node server.js"

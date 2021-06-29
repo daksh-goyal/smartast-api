@@ -23,7 +23,7 @@ app.use(bodyParser.json());
 app.use(cors())
 
 app.get('/', (req, res) => {
-    res.send('Everything is working! This is a backend to SmartBrain App.');
+    res.send('Everything is working! This is a backend for the Smartast App.');
 })
 
 app.post('/signin', signin.handleSignin(db, bcrypt));
